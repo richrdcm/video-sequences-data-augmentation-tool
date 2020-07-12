@@ -1,4 +1,4 @@
-# video-sequences-data-augmentation-tool
+# visual-odometry-data-augmentation-tool
 
 This tool generates groups of small local trajectories given a global trajectory. 
 Local trajectories can be created in forward or backward direction.
